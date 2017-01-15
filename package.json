@@ -1,0 +1,9 @@
+{
+  "name": "pwa",
+  "version": "0.1.0",
+  "description": "a pwa example",
+  "devDependencies": {
+    "cors": "^2.8.0",
+    "express": "^4.14.0"
+  }
+}
